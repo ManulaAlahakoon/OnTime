@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">OnTime</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Reminders</string>
+    <string name="menu_slideshow">Time Table</string>
+
+
+        <!-- String resource for lecture name -->
+        <string name="lecture_name">Lecture Name: %1$s</string>
+
+        <!-- String resource for lecture hall -->
+        <string name="lecture_hall">Lecture Hall: %1$s</string>
+
+        <!-- String resource for remaining time -->
+        <string name="remaining_time">Remaining Time: %1$s</string>
+
+        <!-- String resource for countdown timer -->
+        <string name="countdown_timer">%1$s</string>
+
+
+</resources>
